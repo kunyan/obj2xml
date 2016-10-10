@@ -22,9 +22,9 @@
     };
 
     const person = {
-      name: 'kyan',
-      age: 28,
-      company: 'RedHat Inc.',
+        name: 'kyan',
+        age: 28,
+        company: 'RedHat Inc.',
     };
 
     const persons = [jim, mike];
