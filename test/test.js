@@ -10,9 +10,6 @@
             name: "Mike",
             age: 45,
         },
-        getAge: function() {
-            return this.age;
-        }
     };
 
     const mike = {
@@ -28,9 +25,6 @@
       name: 'kyan',
       age: 28,
       company: 'RedHat Inc.',
-      getAge: function() {
-        return this.age;
-      }
     };
 
     const persons = [jim, mike];

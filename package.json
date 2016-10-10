@@ -1,0 +1,22 @@
+{
+  "name": "obj2xml",
+  "version": "0.1.0",
+  "description": "obj2xml ===",
+  "main": "./lib/obj2xml.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunyan/obj2xml.git"
+  },
+  "author": "Kun Yan <kyan@redhat.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kunyan/obj2xml/issues"
+  },
+  "homepage": "https://github.com/kunyan/obj2xml#readme"
+}

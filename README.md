@@ -34,9 +34,6 @@ const jim = {
         name: "Mike",
         age: 45,
     },
-    getAge: function() {
-        return this.age;
-    }
 };
 
 const mike = {
