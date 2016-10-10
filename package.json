@@ -1,6 +1,6 @@
 {
   "name": "obj2xml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "obj2xml ===",
   "main": "./lib/obj2xml.js",
   "directories": {
